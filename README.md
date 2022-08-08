@@ -1,10 +1,10 @@
 # Awesome Book milestone 1
 
-> This is a simple plain Javascript project that builds a basic website that allows users to add/remove books from a list. This is achieved by using JavaScript objects and arrays and dynamically DOM modification and use of add basic events.
+> This is a simple ES6 Javascript project that builds a basic website that allows users to add/remove books from a list. This is achieved by using JavaScript objects and arrays and dynamically DOM modification and use of add basic events.
 
 ## Built with
 
-- HTML CSS & JAVASCRIPT
+- HTML CSS & JAVASCRIPT ES6
 
 ## Additional Tools
 
@@ -50,11 +50,6 @@ npx eslint ."
 
 - GitHub: [@petrolesapiti](https://github.com/Loltolo-Lesapiti)
 - LinkedIn: [@petrolesapiti](https://www.linkedin.com/in/petrolesapitiloltolo/)
-
-👤 **Eva Lavinia Bucur**
-
-- GitHub: [@](https://github.com/)
-- LinkedIn: [@](https://www.linkedin.com//)
 
 ## Collaborators
 
