@@ -14,7 +14,7 @@
 
 ## Live demo
 
-You can watch [here](https://bucureva87.github.io/awesome-books/) a live demo of our project.
+You can watch [here](/) a live demo of our project.
 
 ## Test
 
