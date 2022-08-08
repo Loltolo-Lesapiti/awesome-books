@@ -1,6 +1,6 @@
 import utils from './modules/utils.js';
 import Books from './modules/books.js';
-import {DateTime} from './modules/luxon.min.js';
+import { DateTime } from './modules/luxon.min.js';
 
 const displayContainer = utils.qs('.container');
 
