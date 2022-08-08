@@ -1,75 +1,77 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# Awesome Book milestone 1
 
-# Project Name
+> This is a simple plain Javascript project that builds a basic website that allows users to add/remove books from a list. This is achieved by using JavaScript objects and arrays and dynamically DOM modification and use of add basic events.
 
-> Description the project.
+## Built with
 
+- HTML CSS & JAVASCRIPT
 
-## Built With
+## Additional Tools
 
-- Major languages
-- Frameworks
-- Technologies used
+- WebHint
+- Stylelint
+- ESlint
 
-## Live Demo (if available)
+## Live demo
 
-[Live Demo Link](https://livedemo.com)
+You can watch [here](https://bucureva87.github.io/awesome-books/) a live demo of our project.
 
+## Test
 
-## Getting Started
+To track linter errors locally follow these steps:
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+Download all the dependencies run:
 
+```
+npm install
+```
 
-To get a local copy up and running follow these simple example steps.
+Track HTML linter errors run:
 
-### Prerequisites
+```
+npx hint .
+```
 
-### Setup
+Track CSS linter errors run:
 
-### Install
+```
+npx stylelint "**/*.{css,scss}"
+```
 
-### Usage
+Track JavaScript linter errors run:
 
-### Run tests
-
-### Deployment
-
-
+```
+npx eslint ."
+```
 
 ## Authors
 
-👤 **Author1**
+👤 **Petro Loltolo Lesapiti**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@petrolesapiti](https://github.com/Loltolo-Lesapiti)
+- LinkedIn: [@petrolesapiti](https://www.linkedin.com/in/petrolesapitiloltolo/)
 
-👤 **Author2**
+👤 **Eva Lavinia Bucur**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@](https://github.com/)
+- LinkedIn: [@](https://www.linkedin.com//)
+
+## Collaborators
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+## Getting Started
 
-## Show your support
+To get a local copy follow these simple steps:
 
-Give a ⭐️ if you like this project!
+- Copy this link .
 
-## Acknowledgments
+- Create a local directory that you want to clone the repository.
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Open the command prompt in the created directory.
 
-## 📝 License
+- Go to the repository folder using command prompt cd javascript-capstone.
 
-This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+- Install the dev dependencies for linters run npm to install.
